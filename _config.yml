@@ -3,7 +3,7 @@ title: YangBeaChu's bolg
 tagline: 
 url: "https://yangbaechu.github.io/"
 paginate: 1
-baseurl: "http://yangbaechu.github.io/"
+baseurl: ""
 permalink: pretty
 
 # Gems
